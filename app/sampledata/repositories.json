@@ -1,0 +1,340 @@
+{
+  "data": [
+    {
+      "id": 121395510,
+      "name": "CS-Notes",
+      "owner": {
+        "login": "CyC2018",
+        "avatar_url":  "https://avatars.githubusercontent.com/u/36260787?v=4"
+      },
+      "stargazers_count": 140091,
+      "language": "Java",
+      "html_url": "https://github.com/CyC2018",
+      "description": ":books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计"
+    },
+    {
+      "id": 132464395,
+      "name": "JavaGuide",
+      "owner": {
+        "login": "Snailclimb",
+        "avatar_url":"https://github.com/Snailclimb"
+      },
+      "html_url": "https://github.com/EzequielMessore/android-guidelines",
+      "description": "「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！",
+      "stargazers_count":  112191,
+      "language": "Java"
+    },
+    {
+      "id": 22790488,
+      "name": "java-design-patterns",
+      "owner": {
+        "login": "iluwatar",
+        "avatar_url": "https://avatars.githubusercontent.com/u/582346?v=4"
+      },
+      "html_url": "https://github.com/iluwatar",
+      "description": "Design patterns implemented in Java",
+      "stargazers_count": 70587,
+      "language": "Java"
+    },
+    {
+      "id": 160640094,
+      "name": "LeetCodeAnimation",
+      "owner": {
+        "login": "MisterBooo",
+        "avatar_url":"https://avatars.githubusercontent.com/u/15308811?v=4"
+      },
+      "html_url": "https://github.com/MisterBooo",
+      "description": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）",
+      "stargazers_count": 67272,
+      "language": "Java"
+    },
+    {
+      "id": 151834062,
+      "name":"advanced-java",
+      "owner": {
+        "login": "doocs",
+        "avatar_url": "https://avatars.githubusercontent.com/u/43716716?v=4"
+      },
+      "html_url":"https://github.com/doocs",
+      "description": "😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识",
+      "stargazers_count": 58033,
+      "language":"Java"
+    },
+    {
+      "id": 6296790,
+      "name": "spring-boot",
+      "owner": {
+        "login":  "spring-projects",
+        "avatar_url": "https://avatars.githubusercontent.com/u/317776?v=4"
+      },
+      "html_url":"https://github.com/spring-projects",
+      "description": "Spring Boot",
+      "stargazers_count": 57667,
+      "language": "Java"
+    },
+    {
+      "id":  507775,
+      "name": "elasticsearch",
+      "owner": {
+        "login": "elastic",
+        "avatar_url": "https://avatars.githubusercontent.com/u/6764390?v=4"
+      },
+      "html_url": "https://github.com/elastic",
+      "description": "Free and Open, Distributed, RESTful Search Engine",
+      "stargazers_count":  56837,
+      "language":"Java"
+    },
+    {
+      "id": 81975372,
+      "name": "interviews",
+      "owner": {
+        "login": "kdn251",
+        "avatar_url": "https://avatars.githubusercontent.com/u/16903644?v=4"
+      },
+      "html_url": "https://github.com/kdn251",
+      "description": "Everything you need to know to get the job.",
+      "stargazers_count":54223,
+      "language":"Java"
+    },
+    {
+      "id": 7508411,
+      "name":"RxJava",
+      "owner": {
+        "login": "ReactiveX",
+        "avatar_url": "https://avatars.githubusercontent.com/u/6407041?v=4"
+      },
+      "html_url": "https://github.com/ReactiveX",
+      "description":"RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.",
+      "stargazers_count":45384,
+      "language":"Java"
+    },
+    {
+      "id":  1148753,
+      "name":"spring-framework",
+      "owner": {
+        "login": "spring-projects",
+        "avatar_url": "https://avatars.githubusercontent.com/u/317776?v=4"
+      },
+      "html_url": "https://github.com/spring-projects",
+      "description":"Spring Framework",
+      "stargazers_count":44638,
+      "language":"Java"
+    },
+    {
+      "id":  20300177,
+      "name": "guava",
+      "owner": {
+        "login": "google",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1342004?v=4"
+      },
+      "html_url":  "https://api.github.com/users/google",
+      "description":"Google core libraries for Java",
+      "stargazers_count":42631,
+      "language":"Java"
+    },
+    {
+      "id": 63477660,
+      "name": "Java",
+      "owner": {
+        "login":"TheAlgorithms",
+        "avatar_url": "https://avatars.githubusercontent.com/u/20487725?v=4"
+      },
+      "html_url":  "https://github.com/TheAlgorithms",
+      "description": "All Algorithms implemented in Java",
+      "stargazers_count":41546,
+      "language":"Java"
+    },
+    {
+      "id": 206462776,
+      "name": "GitHub-Chinese-Top-Charts",
+      "owner": {
+        "login": "kon9chunkit",
+        "avatar_url": "https://avatars.githubusercontent.com/u/21018904?v=4"
+      },
+      "html_url":   "https://api.github.com/users/kon9chunkit",
+      "description": ":cn: GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！",
+      "stargazers_count": 38896,
+      "language":"Java"
+    },
+    {
+      "id": 892275,
+      "name": "retrofit",
+      "owner": {
+        "login": "retrofit",
+        "avatar_url": "https://avatars.githubusercontent.com/u/82592?v=4"
+      },
+      "html_url":  "https://github.com/square",
+      "description": "A type-safe HTTP client for Android and the JVM",
+      "stargazers_count": 38863,
+      "language":"Java"
+    },
+    {
+      "id": 4710920,
+      "name":"dubbo",
+      "owner": {
+        "login": "apache",
+        "avatar_url": "https://avatars.githubusercontent.com/u/47359?v=4"
+      },
+      "html_url":  "https://github.com/apache",
+      "description": "Apache Dubbo is a high-performance, java based, open source RPC framework.",
+      "stargazers_count":  36286,
+      "language":"Java"
+    },
+    {
+      "id":  19148949,
+      "name":"MPAndroidChart",
+      "owner": {
+        "login":"PhilJay",
+        "avatar_url":"https://avatars.githubusercontent.com/u/6759734?v=4"
+      },
+      "html_url":  "https://github.com/PhilJay",
+      "description": "A powerful 🚀 Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, panning and animations.",
+      "stargazers_count": 34088,
+      "language":"Java"
+    },
+    {
+      "id":  70198875,
+      "name":"MPAndroidChart",
+      "owner": {
+        "login":"airbnb",
+        "avatar_url":"https://avatars.githubusercontent.com/u/698437?v=4"
+      },
+      "html_url":  "https://github.com/airbnb",
+      "description": "Render After Effects animations natively on Android and iOS, Web, and React Native",
+      "stargazers_count": 31919,
+      "language":"Java"
+    },
+    {
+      "id": 11267509,
+      "name":"glide",
+      "owner": {
+        "login":"airbnb",
+        "avatar_url":"https://avatars.githubusercontent.com/u/423539?v=4"
+      },
+      "html_url": "https://github.com/bumptech",
+      "description": "Render After Effects animations natively on Android and iOS, Web, and React Native",
+      "stargazers_count": 31833,
+      "language":"Java"
+    },
+    {
+      "id": 64558143,
+      "name": "AndroidUtilCode",
+      "owner": {
+        "login":"Blankj",
+        "avatar_url": "https://avatars.githubusercontent.com/u/17978187?v=4"
+      },
+      "html_url": "https://github.com/Blankj",
+      "description": ":fire: Android developers should collect the following utils(updating).",
+      "stargazers_count": 29944,
+      "language":"Java"
+    },
+    {
+      "id":  173228436,
+      "name": "ghidra",
+      "owner": {
+        "login":"NationalSecurityAgency",
+        "avatar_url": "https://avatars.githubusercontent.com/u/11298292?v=4"
+      },
+      "html_url": "https://github.com/NationalSecurityAgency",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "stargazers_count": 29261,
+      "language":"Java"
+    },
+    {
+      "id":   267775629,
+      "name": "hello-algorithm",
+      "owner": {
+        "login":"geekxh",
+        "avatar_url":"https://avatars.githubusercontent.com/u/64886238?v=4"
+      },
+      "html_url": "https://github.com/geekxh",
+      "description":  "🌍 针对小白的算法训练 | 包括四部分：①.算法基础 ②.力扣图解 ③.大厂面经 ④.CS_汇总 | 附：1、千本开源电子书  2、百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~）",
+      "stargazers_count": 28907,
+      "language":"Java"
+    },
+    {
+      "id":   2562751,
+      "name": "zxing",
+      "owner": {
+        "login":"zxing",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1122572?v=4"
+      },
+      "html_url": "https://github.com/zxing",
+      "description": "ZXing (\"Zebra Crossing\") barcode scanning library for Java, Android",
+      "stargazers_count": 28500,
+      "language":"Java"
+    },
+    {
+      "id":   9754983,
+      "name":"tutorials",
+      "owner": {
+        "login":"eugenp",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1022859?v=4"
+      },
+      "html_url": "https://github.com/zxing",
+      "description":"Just Announced - \"Learn Spring Security OAuth\": ",
+      "stargazers_count": 28500,
+      "language":"Java"
+    },
+    {
+      "id":   1064563,
+      "name": "netty",
+      "owner": {
+        "login":"netty",
+        "avatar_url": "https://avatars.githubusercontent.com/u/473791?v=4"
+      },
+      "html_url": "https://github.com/netty",
+      "description":  "Netty project - an event-driven asynchronous network application framework",
+      "stargazers_count":27775,
+      "language":"Java"
+    },
+    {
+      "id":   8859474,
+      "name": "jadx",
+      "owner": {
+        "login":"skylot",
+        "avatar_url":  "https://avatars.githubusercontent.com/u/118523?v=4"
+      },
+      "html_url": "https://github.com/skylot",
+      "description":  "Dex to Java decompiler",
+      "stargazers_count":  27405,
+      "language":"Java"
+    },
+    {
+      "id":   146633589,
+      "name": "arthas",
+      "owner": {
+        "login":"alibaba",
+        "avatar_url":  "https://avatars.githubusercontent.com/u/1961952?v=4"
+      },
+      "html_url": "https://github.com/alibaba",
+      "description":  "Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas",
+      "stargazers_count": 27375,
+      "language":"Java"
+    },
+    {
+      "id":   114523184,
+      "name": "JCSprout",
+      "owner": {
+        "login":"crossoverJie",
+        "avatar_url": "https://avatars.githubusercontent.com/u/15684156?v=4"
+      },
+      "html_url":  "https://github.com/crossoverJie",
+      "description": "👨‍🎓 Java Core Sprout : basic, concurrent, algorithm ",
+      "stargazers_count":  26440,
+      "language":"Java"
+    },
+    {
+      "id": 8575137,
+      "name": "butterknife",
+      "owner": {
+        "login":  "JakeWharton",
+        "avatar_url": "https://avatars.githubusercontent.com/u/66577?v=4"
+      },
+      "html_url": "https://github.com/JakeWharton/butterknife",
+      "description": "Bind Android views and callbacks to fields and methods.",
+      "stargazers_count":  25739,
+      "language": "Java"
+    }
+  ]
+}
